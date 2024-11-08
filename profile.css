@@ -97,7 +97,7 @@ body{
 	color:blue;
 }
 .platform{
-	margin-right:17%;
+	margin-right:14%;
 }
 
 .blog{
@@ -132,41 +132,58 @@ body{
 	font-size:20px;
 	margin:20px;
 	padding:10px;
-	background-color:orange;
+	background-color:white;
 	color:black;
-	border:2px solid orange;
-	border-radius:15px 15px 15px 15px ;
+	border:3px solid orange;
+	border-radius:10px ;
 	font-weight:500;
+}
+.t:hover {
+	background-color:orange;
+	color:white;
 }
 .m{
 	font-size:20px;
-	margin:30px;
-	padding:10px;
-	background-color:orange;
+	margin:50px;
+	padding:12px;
+	background-color:white;
 	color:black;
 	border:3px solid orange;
-	border-radius:15px 15px 15px 15px ;
+	border-radius:10px ;
 	font-weight:500;
+}
+.m:hover {
+	background-color:orange;
+	color:white;
 }
 .b{
 	font-size:20px;
 	margin:20px;
 	padding:10px;
-	background-color:orange;
+	background-color:white;
 	color:black;
-	border:2px solid orange;
-	border-radius:15px 15px 15px 15px ;
+	border:3px solid orange;
+	border-radius:15px ;
 	font-weight:500;
+	}
+	.b:hover {
+		background-color:orange;
+		color:white;
+		
 	}
 .r{
 	font-size:20px;
 	margin:20px;
 	padding:10px;
-	background-color:orange;
+	background-color:white;
 	color:black;
 	border:2px solid orange;
 	border-radius:15px 15px 15px 15px ;
 	font-weight:500;
+}
+.r:hover {
+	background-color:orange;
+	color:white;
 }
 .g{
 	font-size:20px;
@@ -178,6 +195,10 @@ body{
 	border-radius:15px 15px 15px 15px ;
 	font-weight:500;
 }
+.g:hover {
+	background-color:orange;
+	color:white;
+}
 .tw{
 	font-size:20px;
 	margin:20px;
@@ -188,6 +209,11 @@ body{
 	border-radius:15px 15px 15px 15px ;
 	font-weight:500;
 }
+.tw:hover {
+	background-color:orange;
+	color:white;
+}
+
 .l{
 	font-size:20px;
 	margin:20px;
@@ -198,3 +224,8 @@ body{
 	border-radius:15px 15px 15px 15px ;
 	font-weight:500;
 }
+.l:hover{
+	background-color:orange;
+	color:white;
+}
+	
